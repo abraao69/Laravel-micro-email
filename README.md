@@ -8,7 +8,7 @@ E também depende do microservice 02, portanto, também subir o [microservice 02
 ### Instalação
 Clonar Projeto
 ```sh
-git clone https://github.com/especializati/laravel-micro-email
+git clone https://github.com/abraao69/laravel-micro-email.git
 ```
 
 Acessar o projeto
